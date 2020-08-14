@@ -60,7 +60,7 @@ self.cancel(self.buy_order[0])
 
 ```python
 import backtrader as bt
-from backtradermt5.mt5store import MTraderStore
+from backtradermql5.mt5store import MTraderStore
 from datetime import datetime, timedelta
 
 
